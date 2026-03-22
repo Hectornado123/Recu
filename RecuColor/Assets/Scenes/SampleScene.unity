@@ -442,6 +442,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: PERSONAJE 2_Atlas desmontado
       objectReference: {fileID: 0}
+    - target: {fileID: -8159483334060915802, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9992509
+      objectReference: {fileID: 0}
+    - target: {fileID: -8159483334060915802, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8159483334060915802, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8159483334060915802, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.03870003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8159483334060915802, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 4.436
+      objectReference: {fileID: 0}
     - target: {fileID: -7694217771748202108, guid: 8049eec75ccf78a4899996ce5c9d6a0f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.8002179
